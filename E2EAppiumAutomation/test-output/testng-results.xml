@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="62176" started-at="2020-05-13T14:39:02Z" finished-at="2020-05-13T14:40:04Z">
+  <suite name="Default suite" duration-ms="63234" started-at="2020-05-14T19:41:56Z" finished-at="2020-05-14T19:42:59Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="62176" started-at="2020-05-13T14:39:02Z" finished-at="2020-05-13T14:40:04Z">
+    <test name="Default test" duration-ms="63234" started-at="2020-05-14T19:41:56Z" finished-at="2020-05-14T19:42:59Z">
       <class name="mobile.E2EAppiumAutomation.ecom_t1">
-        <test-method status="PASS" signature="totalValidation(java.lang.String)[pri:0, instance:mobile.E2EAppiumAutomation.ecom_t1@1e67b872]" name="totalValidation" duration-ms="30940" started-at="2020-05-13T10:39:02Z" data-provider="InputData" finished-at="2020-05-13T10:39:33Z">
+        <test-method status="PASS" signature="totalValidation(java.lang.String)[pri:0, instance:mobile.E2EAppiumAutomation.ecom_t1@1e67b872]" name="totalValidation" duration-ms="30789" started-at="2020-05-14T15:41:56Z" data-provider="InputData" finished-at="2020-05-14T15:42:26Z">
           <params>
             <param index="0">
               <value>
@@ -18,7 +18,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- totalValidation -->
-        <test-method status="PASS" signature="totalValidation(java.lang.String)[pri:0, instance:mobile.E2EAppiumAutomation.ecom_t1@1e67b872]" name="totalValidation" duration-ms="31217" started-at="2020-05-13T10:39:33Z" data-provider="InputData" finished-at="2020-05-13T10:40:04Z">
+        <test-method status="PASS" signature="totalValidation(java.lang.String)[pri:0, instance:mobile.E2EAppiumAutomation.ecom_t1@1e67b872]" name="totalValidation" duration-ms="32426" started-at="2020-05-14T15:42:26Z" data-provider="InputData" finished-at="2020-05-14T15:42:59Z">
           <params>
             <param index="0">
               <value>
