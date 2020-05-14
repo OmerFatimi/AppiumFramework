@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="62176" started-at="2020-05-13T14:39:02Z" finished-at="2020-05-13T14:40:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="62176" started-at="2020-05-13T14:39:02Z" finished-at="2020-05-13T14:40:04Z">
+      <class name="mobile.E2EAppiumAutomation.ecom_t1">
+        <test-method status="PASS" signature="totalValidation(java.lang.String)[pri:0, instance:mobile.E2EAppiumAutomation.ecom_t1@1e67b872]" name="totalValidation" duration-ms="30940" started-at="2020-05-13T10:39:02Z" data-provider="InputData" finished-at="2020-05-13T10:39:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Omer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- totalValidation -->
+        <test-method status="PASS" signature="totalValidation(java.lang.String)[pri:0, instance:mobile.E2EAppiumAutomation.ecom_t1@1e67b872]" name="totalValidation" duration-ms="31217" started-at="2020-05-13T10:39:33Z" data-provider="InputData" finished-at="2020-05-13T10:40:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[!@#]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- totalValidation -->
+      </class> <!-- mobile.E2EAppiumAutomation.ecom_t1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
