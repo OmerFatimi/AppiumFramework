@@ -7,8 +7,17 @@ public class TestData {
 	public static Object[][] getDataForEditField() {
 		Object[][] obj = new Object[][]
 		{
-			{"Omer"}, {"!@#"}
+			{"Omer", "Argentina", "Male"}, {"TestUser", "Aruba", "Female"}
 		};
 		return obj;
+	}
+	
+	@DataProvider(name="TillCheckout")
+	public static Object[][] getDataForTheShoes() {
+		Object[][] obj = new Object[][] {
+			{"Omer", "Argentina", "Male", "Jordan 6 Rings"}
+		};
+		return obj;
+		
 	}
 }
